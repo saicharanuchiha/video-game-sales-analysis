@@ -5,7 +5,7 @@ To analyze global video game sales data to identify top-performing publishers, h
 
 ## 🛠️ Skills & Tools Used
 * **Database:** MySQL
-* **Concepts:** Common Table Expressions (CTEs), Window Functions (`ROW_NUMBER`), Aggregations (`GROUP BY`, `HAVING`), Data Type Casting.
+* **Concepts:** Common Table Expressions (CTEs), Window Functions (`RANK`), Aggregations (`GROUP BY`, `HAVING`), Data Type Casting.
 
 ## 📊 Key Insights
 1. **The Racing King:** *Mario Kart Wii* is the undisputed top racing game of all time with 35.52M copies sold.
